@@ -2,4 +2,4 @@
 
 thisn project created from local system.
 
-atika zaman
+atika zamangit.
